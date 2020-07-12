@@ -2,6 +2,7 @@ h1{
     text-align: center;
     color: aquamarine;
     border: 2px solid red;
+    background-color: darkslateblue;
 }
 ul{
     text-decoration: brown;
@@ -10,4 +11,25 @@ ul{
 p1{
 text-align: left;
 }
+.self{
+   color: darkslategrey;
+   text-overflow: initial;
+   
 
+}
+body{
+    background-color: lavender;
+}
+img{
+    float: left;
+}
+.self{
+    color: olive;
+}
+ul{
+    color: dimgrey;
+}
+#ME{
+    color: lightgoldenrodyellow;
+    text-decoration-color: mediumspringgreen;
+}
