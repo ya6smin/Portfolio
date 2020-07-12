@@ -18,6 +18,6 @@ I used:
  *Phone Number : 0722143074
  *Email: yaminna98@gmail.com
  ### License 
- [MIT License]( https://github.com/ya6smin/Portfolio/community/license/new?branch=master)
+ [MIT License](https://github.com/ya6smin/Portfolio/community/license/new?branch=master&template=mit)
  copyright (c) 2020  *ya6smin*
 
