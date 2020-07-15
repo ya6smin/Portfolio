@@ -8,8 +8,10 @@ ul{
     text-decoration: brown;
 
 }
-p1{
-text-align: left;
+p3{
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-weight: normal;
 }
 .self{
    color: darkslategrey;
@@ -18,18 +20,31 @@ text-align: left;
 
 }
 body{
-    background-color: lavender;
+    background-color: rosybrown;
 }
 img{
-    float: left;
+ float: inherit;
 }
-.self{
-    color: olive;
+.aboutme{
+    border-color: olive;
+    color: papayawhip;
+    font-size: large;
+    text-transform: capitalize;
 }
 ul{
     color: dimgrey;
 }
-#ME{
-    color: lightgoldenrodyellow;
-    text-decoration-color: mediumspringgreen;
+
+.interest{
+    color: plum;
+    text-shadow: magenta;
+    font-size: large;
+}
+    
+
+}
+h3{
+    text-align: left;
+    color: maroon;
+
 }
